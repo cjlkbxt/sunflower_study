@@ -28,10 +28,10 @@ buildscript {
         coroutinesVersion = "1.6.4"
         fragmentVersion = '1.5.4'
         glideVersion = '4.14.2'
-        gradleVersion = '7.2.2'
+        gradleVersion = '7.4.0'
         gsonVersion = '2.10'
         hiltVersion = '2.44.2'
-        kotlinVersion = '1.7.10'
+        kotlinVersion = '1.7.21'
         ktlintVersion = '0.40.0'
         ktxVersion = '1.9.0'
         lifecycleVersion = '2.5.1'
