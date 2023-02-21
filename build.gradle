@@ -23,26 +23,26 @@ buildscript {
         targetSdkVersion = 33
 
         // App dependencies
-        appCompatVersion = '1.5.1'
+        appCompatVersion = '1.6.1'
         constraintLayoutVersion = '2.1.4'
         coroutinesVersion = "1.6.4"
-        fragmentVersion = '1.5.4'
+        fragmentVersion = '1.5.5'
         glideVersion = '4.14.2'
-        gradleVersion = '7.4.0'
+        gradleVersion = '7.4.1'
         gsonVersion = '2.10'
         hiltVersion = '2.44.2'
         kotlinVersion = '1.7.21'
         ktlintVersion = '0.40.0'
         ktxVersion = '1.9.0'
         lifecycleVersion = '2.5.1'
-        materialVersion = '1.7.0'
+        materialVersion = '1.8.0'
         navigationVersion = '2.5.3'
         okhttpLoggingVersion = '4.9.3'
         pagingVersion = '3.1.1'
         retrofitVersion = '2.9.0'
-        roomVersion = '2.4.3'
+        roomVersion = '2.5.0'
         viewPagerVersion = '1.0.0'
-        workVersion = '2.7.1'
+        workVersion = '2.8.0'
 
         profileInstallerVersion = '1.2.1'
         tracingVersion = '1.1.0'
