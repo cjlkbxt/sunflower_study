@@ -34,7 +34,7 @@ buildscript {
         kotlinVersion = '1.7.21'
         ktlintVersion = '0.40.0'
         ktxVersion = '1.9.0'
-        lifecycleVersion = '2.5.1'
+        lifecycleVersion = '2.6.0'
         materialVersion = '1.8.0'
         navigationVersion = '2.5.3'
         okhttpLoggingVersion = '4.10.0'
